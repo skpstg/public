@@ -1,4 +1,7 @@
 #app {
   display: none;
 }
-// some change
+
+.wordplay-root {
+  display: none;
+}

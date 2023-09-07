@@ -13,3 +13,7 @@
 .gutter {
   display: none;
 }
+
+.el-row.el-row--flex.minute:not(.loaded) {
+  display: none;
+}

@@ -2,18 +2,10 @@
   padding: 0 !important;
 }
 
-.icon-text {
-  display: none;
-}
-
+.icon-text,
+.time-controls,
+.el-row.el-row--flex.minute:not(.loaded),
+.gutter,
 .wordplay__video-column .wordplay__data-wrapper {
-  display: none;
-}
-
-.gutter {
-  display: none;
-}
-
-.el-row.el-row--flex.minute:not(.loaded) {
   display: none;
 }

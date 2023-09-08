@@ -7,5 +7,5 @@
 .el-row.el-row--flex.minute:not(.loaded),
 .gutter,
 .wordplay__video-column .wordplay__data-wrapper {
-  display: none;
+  display: none !important;
 }

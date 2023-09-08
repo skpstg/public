@@ -6,6 +6,7 @@
 .time-controls,
 .el-row.el-row--flex.minute:not(.loaded),
 .gutter,
-.wordplay__video-column .wordplay__data-wrapper {
+.wordplay__video-column .wordplay__data-wrapper,
+.transcript__button.transcript__pad-before {
   display: none !important;
 }

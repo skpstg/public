@@ -17,8 +17,8 @@
   display: none !important;
 }
 
-.wordplay__data-wrapper {
-  min-height: auto;
+.wordplay__video-column .wordplay__data-wrapper {
+  min-height: auto !important;
 }
 
 .el-row.el-row--flex.minute.loaded {

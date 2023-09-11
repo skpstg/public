@@ -6,10 +6,17 @@
 .time-controls,
 .el-row.el-row--flex.minute:not(.loaded),
 .gutter,
-.wordplay__video-column .wordplay__data-wrapper,
+.program-metadata panel,
+.centered-vertically.clip-duration.el-col.el-col-24.el-col-xs-6.el-col-md-7.el-col-lg-8,
+.el-tooltip.actions__button-wrapper.el-button,
+.el-button.button__email.el-button--primary,
 .transcript__button.transcript__pad-before,
 .transcript__button.transcript__pad-after,
 .transcript__selection-controls,
 .minute__thumbnail-col.el-col.el-col-24.el-col-xs-5.el-col-sm-5 {
   display: none !important;
+}
+
+el-row.el-row--flex.minute.loaded {
+  border-top: none;
 }

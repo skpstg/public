@@ -17,6 +17,10 @@
   display: none !important;
 }
 
-el-row.el-row--flex.minute.loaded {
+.wordplay__data-wrapper {
+  min-height: auto;
+}
+
+.el-row.el-row--flex.minute.loaded {
   border-top: none;
 }

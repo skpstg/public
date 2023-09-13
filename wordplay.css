@@ -13,7 +13,9 @@
 .transcript__button.transcript__pad-before,
 .transcript__button.transcript__pad-after,
 .transcript__selection-controls,
-.minute__thumbnail-col.el-col.el-col-24.el-col-xs-5.el-col-sm-5 {
+.minute__thumbnail-col.el-col.el-col-24.el-col-xs-5.el-col-sm-5,
+.el-button.button__archive-clip.el-button--primary span,
+.el-button.button__load-clip.el-button--primary {
   display: none !important;
 }
 
@@ -23,4 +25,8 @@
 
 .el-row.el-row--flex.minute.loaded {
   border-top: none;
+}
+
+.el-button.button__archive-clip.el-button--primary::before {
+  content: "Save";
 }

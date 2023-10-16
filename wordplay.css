@@ -18,15 +18,11 @@
   display: none !important;
 }
 
-.el-row el-row--flex.minute {
-  border: none;
-}
-
 .wordplay__video-column .wordplay__data-wrapper {
   min-height: auto !important;
 }
 
-.el-row.el-row--flex.minute.loaded {
+.el-row.el-row--flex.minute {
   border-top: none;
 }
 

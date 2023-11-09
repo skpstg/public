@@ -22,10 +22,6 @@
   min-height: auto !important;
 }
 
-.el-row.el-row--flex.minute {
-  border-top: none;
-}
-
 .el-button.button__archive-clip.el-button--primary::before {
   content: "Save";
 }

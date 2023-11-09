@@ -26,7 +26,6 @@
   border-top: none;
 }
 
-/* .el-button.button__archive-clip.el-button--primary::before {
+.el-button.button__archive-clip.el-button--primary::before {
   content: "Save";
 }
- */

@@ -14,7 +14,8 @@
 .transcript__selection-controls,
 .minute__thumbnail-col.el-col.el-col-24.el-col-xs-5.el-col-sm-5,
 .el-button.button__archive-clip.el-button--primary span,
-.el-button.button__load-clip.el-button--primary {
+.el-button.button__load-clip.el-button--primary,
+.el-row.el-row--flex.minute.has(~ .el-row.el-row--flex.minute.loaded) {
   display: none !important;
 }
 

@@ -29,3 +29,7 @@
 .el-button.button__archive-clip.el-button--primary::before {
   content: "Save";
 }
+
+.transcript.panel {
+  overflow-y: scroll;
+}
